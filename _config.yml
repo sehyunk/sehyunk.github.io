@@ -95,14 +95,14 @@ analytics:
 # Site Author
 author:
   name             : "Sehyun Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "avatar.jpg"
   bio              : "데이터 공부를 합시다"
   location         : "Seoul"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "nanica9191@naver.com"
+#       url: "nanica9191@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
