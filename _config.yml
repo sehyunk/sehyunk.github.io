@@ -98,11 +98,11 @@ author:
   avatar           : "avatar.jpg"
   bio              : "데이터 공부를 합시다"
   location         : "Seoul"
-  email            :
+  email            : "nanica9191@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-#       url: "nanica9191@naver.com"
+      url: "nanica9191@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
