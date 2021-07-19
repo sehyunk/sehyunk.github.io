@@ -14,7 +14,7 @@ plt.figure(figsize = (10,5))
 sns.barplot(data = df, x = 'date', y = 'sales', hue = 'category', ci = False)
 ```
 
-![문제](./images/xticks1.png)
+![문제](../images/xticks1.png)
 
 
 ```python
@@ -27,7 +27,7 @@ g.set_xticklabels([date_text.get_text().split("T")[0] for date_text in g.get_xti
 
 ```
 
-![해결](./images/xticks2.png)
+![해결](../images/xticks2.png)
 
 ### 참고링크
 https://stackoverflow.com/questions/62480198/date-format-changed-using-seaborn-pointplot
