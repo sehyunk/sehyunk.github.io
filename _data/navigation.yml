@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "python"
+  - title: "Python"
     url: https://sehyunk.github.io/categories/python
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "SQL"
+    url: https://sehyunk.github.io/categories/sql
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
