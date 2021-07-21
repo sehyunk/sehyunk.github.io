@@ -1,10 +1,10 @@
 ---
 layout: 'single
 title:  '파이썬 리스트 컴프리헨션(List Comprension)'
-
 categories:
   - Python
 ---
+
 일반적인 반복문으로 리스트를 생성하는 방법입니다.
 
 
