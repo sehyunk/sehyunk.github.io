@@ -1,6 +1,8 @@
 ---
 layout: single
 title: python 반복문 동적 변수 생성하기
+categories:
+  - python
 ---
 
 반복문으로 변수를 생성하려다 보면 생각대로 안되는 경우가 발생한다. 
