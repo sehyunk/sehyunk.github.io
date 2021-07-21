@@ -2,7 +2,8 @@
 
 layout: single
 title: "x축 라벨 날짜(date) 마이크로초 단위 나올 때 해결법"
-
+categories:
+  - python
 ---
 
 - x축을 날짜로 그래프를 그릴 때 datetime의 마이크로초단위까지 모두 노출되는 경우가 있다.
