@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "HackerRank - SQL - Binary Tree Nodes 문제풀이"
+categories:
+  - sql
 ---
 
 
