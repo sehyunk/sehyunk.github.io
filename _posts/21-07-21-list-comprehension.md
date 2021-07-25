@@ -1,6 +1,6 @@
 ---
 layout: 'single'
-title:  '파이썬 리스트 컴프리헨션(List Comprension)'
+title:  '파이썬 리스트 컴프리헨션(List Comprehension)'
 categories:
   - python
 ---
