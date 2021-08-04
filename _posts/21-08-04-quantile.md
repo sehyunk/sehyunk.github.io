@@ -93,7 +93,7 @@ sns.violinplot(data = df, y = 'price')
 
 
 ​    
-![png](images/output_3_1.png)
+![png](../images/output_3_1.png)
 ​    
 
 
@@ -233,6 +233,6 @@ sns.countplot(df['quantile'])
 
 
 
-![png](images/output_9_1.png)
+![png](../images/output_9_1.png)
     
 
