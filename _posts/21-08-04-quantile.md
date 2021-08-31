@@ -1,6 +1,6 @@
 ---
 layout: 'single'
-title:  '파이썬 범주형 데이터 십분위로 나누기(quantile 함수 활용)'
+title:  '파이썬 수치형 데이터 범주형으로 바꾸기(quantile 함수 활용)'
 categories:
   - python
 ---
